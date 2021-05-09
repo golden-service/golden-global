@@ -1,0 +1,16 @@
+{
+  "name": "angular-universal-heroku",
+  "short_name": "angular-universal-heroku",
+  "theme_color": "#1a1e5d",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/images/logo/favourite_icon_01.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    }
+  ]
+}
