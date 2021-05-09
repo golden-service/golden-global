@@ -1,6 +1,6 @@
 {
-  "name": "angular-universal-heroku",
-  "short_name": "angular-universal-heroku",
+  "name": "global-golden-service",
+  "short_name": "golden-service",
   "theme_color": "#1a1e5d",
   "background_color": "#fafafa",
   "display": "standalone",

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1620572480944,
+  "timestamp": 1620573070335,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.de2aa0338aead5d17fe7.js",
+        "/main.497ce927c148331bc048.js",
         "/polyfills-es5.dac42b74d0f066470155.js",
         "/polyfills.4ad41e5e9c953996b953.js",
         "/runtime.69aad174de386c36a16c.js",
@@ -577,8 +577,8 @@
     "/assets/js/popper.min.js": "313789ca0e31b654784dbba8b0f83f364f8683b4",
     "/assets/js/wow.min.js": "5924f7bbbf1dfa3f0926851d01f782f23a59e805",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "447255070b59216c397b843ed45f31e634d1393f",
-    "/main.de2aa0338aead5d17fe7.js": "9287862fd9f76b7e08f4fdf445b35a490622ab45",
+    "/index.html": "94464af9e2facf0b854fb6ad341ac54ab0b02014",
+    "/main.497ce927c148331bc048.js": "ecb5c8f9008ee3f0696bf13e113ee5399f5777a5",
     "/polyfills-es5.dac42b74d0f066470155.js": "a6e04cd68b9db87176561fd80ae8a26c5dc1bd3c",
     "/polyfills.4ad41e5e9c953996b953.js": "6e5b143eeb766f9c1fbcecfa2e553b7228fd5552",
     "/runtime.69aad174de386c36a16c.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
