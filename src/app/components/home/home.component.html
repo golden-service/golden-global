@@ -18,19 +18,19 @@
           <li><a href="/about">About</a></li>
           <li><a href="/contact">Conatct</a></li>
           <li class="dropdown">
-            <a href="/products/category/waste-papers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Waste Papers</a>
+            <a href="/products/category/waste-papers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Paper Scraps</a>
             <ul class="dropdown-menu">
               <li *ngFor="let product of waste_papers"><a href="/category/{{product.category}}/product/{{product.id}}">{{product.id}}</a></li>
             </ul>
           </li>
           <li class="dropdown">
-            <a href="/products/category/plastic-scrap" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Plastic Scrap</a>
+            <a href="/products/category/plastic-scrap" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Plastic Scraps</a>
             <ul class="dropdown-menu">
               <li *ngFor="let product of plastic_scrap"><a href="/category/{{product.category}}/product/{{product.id}}">{{product.name}}</a></li>
             </ul>
           </li>
           <li class="dropdown">
-            <a href="/products/category/metal-scrap" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Metal Scrap</a>
+            <a href="/products/category/metal-scrap" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Metal Scraps</a>
             <ul class="dropdown-menu">
               <li *ngFor="let product of metal_scrap"><a href="/category/{{product.category}}/product/{{product.id}}">{{product.name}}</a></li>
             </ul>

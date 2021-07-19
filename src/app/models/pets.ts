@@ -592,12 +592,23 @@ export const PETS: Pet[] = [
         description_2: ''
     } as Pet,
 
-    // {
-    //     id: 'adopt', name: 'adopt', image: 'assets/img/adopt.jpg',
-    //     category: '', price: 300,
-    //     description_1: ``,
-    //     description_2: ''
-    // } as Pet,
+    {
+        id: 'sorted-office-papers', name: 'SOP (Sorted Office Papers)', image: 'assets/images/products/waste-papers/sorted-office-paper.jpg',
+        category: 'waste-papers', price: 300,
+        description_1: `<p><strong><em data-spm-anchor-id="a2700.details.0.i6.7f922143EyrHtv">we export all kinds of paper scrap from our direct yards in different countries!&nbsp;</em></strong><strong>&nbsp;</strong></p>
+        <p><strong><em>We have materials from UAE, UK, Israel, Sudan, Canada, and the USA!</em></strong><strong>&nbsp;</strong></p>
+        <p><strong><em>Competitive price and prompt delivery!</em></strong></p>`,
+        description_2: ''
+    } as Pet,
+
+    {
+        id: 'yellow-page-papers', name: 'Yellow Pages Scrap', image: 'assets/images/products/waste-papers/yellow-pages.png',
+        category: 'waste-papers', price: 300,
+        description_1: `<p><strong><em data-spm-anchor-id="a2700.details.0.i6.7f922143EyrHtv">we export all kinds of paper scrap from our direct yards in different countries!&nbsp;</em></strong><strong>&nbsp;</strong></p>
+        <p><strong><em>We have materials from UAE, UK, Israel, Sudan, Canada, and the USA!</em></strong><strong>&nbsp;</strong></p>
+        <p><strong><em>Competitive price and prompt delivery!</em></strong></p>`,
+        description_2: ''
+    } as Pet,
 
     // {
     //     id: 'adopt', name: 'adopt', image: 'assets/img/adopt.jpg',
